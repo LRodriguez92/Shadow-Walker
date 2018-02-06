@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f8c1bb27920554bb7ac3bb2ec4b01fb7
+timeCreated: 1517949572
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Last Ninja
+  fontNames:
+  - Last Ninja
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
