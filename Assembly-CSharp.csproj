@@ -54,6 +54,7 @@
      <Compile Include="Assets\NinjaController\Scripts\NinjaController.cs" />
      <Compile Include="Assets\NinjaController\Scripts\PhysicsParams.cs" />
      <Compile Include="Assets\NinjaController\Scripts\PhysicsParamsContainer.cs" />
+     <Compile Include="Assets\Scripts\LevelManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity 2017.2.0f3/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

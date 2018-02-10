@@ -157,7 +157,7 @@
 'Assets/NinjaController/Scripts/NinjaController.cs'
 'Assets/NinjaController/Scripts/PhysicsParams.cs'
 'Assets/NinjaController/Scripts/PhysicsParamsContainer.cs'
-'Assets/Parallax.cs'
+'Assets/Scripts/LevelManager.cs'
 -r:'/Applications/Unity 2017.2.0f3/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity 2017.2.0f3/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'
 -r:'/Applications/Unity 2017.2.0f3/Unity.app/Contents/Mono/lib/mono/unity/UnityScript.dll'
